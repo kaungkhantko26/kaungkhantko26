@@ -18,7 +18,9 @@
   <img src="https://img.shields.io/badge/Focus-React%20%7C%20Node.js%20%7C%20Python-ef4444?style=for-the-badge&logoColor=white" alt="Focus badge" />
 </p>
 
-<h2 align="center">Practical software with an energetic red pulse.</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1400&color=FFFFFF&center=true&vCenter=true&width=720&lines=Web+Developer;Computer+Science+Student" alt="Role animation" />
+</p>
 
 <p align="center">
   I build modern web applications and useful digital products with a strong focus on readability, maintainability, and shipping work that solves actual problems.
