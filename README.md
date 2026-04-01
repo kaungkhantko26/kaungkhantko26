@@ -1,36 +1,77 @@
-# Kaung Khant Ko
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:22c55e&height=220&section=header&text=Kaung%20Khant%20Ko&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Kaung Khant Ko banner" />
+</p>
 
-I build practical software with clean interfaces, clear structure, and real-world usefulness.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+clean+and+useful+software;Frontend+and+backend+projects;Always+learning%2C+always+shipping" alt="Typing animation" />
+  </a>
+</p>
 
-## What I Do
+<p align="center">
+  <a href="https://github.com/kaungkhantko26">
+    <img src="https://img.shields.io/badge/GitHub-kaungkhantko26-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaungkhantko06">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaung%20Khant%20Ko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-React%20%7C%20Node.js%20%7C%20Python-16A34A?style=for-the-badge" alt="Focus badge" />
+</p>
 
-- Build modern web applications
-- Turn ideas into working products
-- Focus on readable code and reliable delivery
+<h2 align="center">Practical software. Clear structure. Real-world results.</h2>
 
-## Current Focus
+<p align="center">
+  I build modern web applications and useful digital products with a strong focus on readability, maintainability, and shipping work that solves actual problems.
+</p>
 
-- React and modern frontend workflows
-- Node.js and backend fundamentals
-- Stronger product thinking and execution
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>What I Do</h3>
+      <ul>
+        <li>Build responsive web interfaces</li>
+        <li>Turn ideas into working products</li>
+        <li>Write code that stays understandable</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Current Focus</h3>
+      <ul>
+        <li>React and modern frontend workflows</li>
+        <li>Node.js backend fundamentals</li>
+        <li>Product thinking and execution</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## Stack
+<h3>Stack</h3>
 
-| Area | Tools |
-| --- | --- |
-| Frontend | HTML, CSS, JavaScript, React, Tailwind CSS |
-| Backend | Node.js, Express, Python |
-| Workflow | Git, GitHub, VS Code |
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
-## Working Style
+<h3>Working Style</h3>
 
-I like simple systems that are fast to understand, easy to maintain, and good enough to ship with confidence.
+<p>
+  I prefer simple systems that are fast to understand, easy to maintain, and strong enough to ship with confidence.
+</p>
 
-## Connect
+<h3>Connect</h3>
 
-- GitHub: [github.com/kaungkhantko26](https://github.com/kaungkhantko26)
-- LinkedIn: [linkedin.com/in/kaungkhantko06](https://www.linkedin.com/in/kaungkhantko06)
+<p>
+  <a href="https://github.com/kaungkhantko26">GitHub</a> •
+  <a href="https://www.linkedin.com/in/kaungkhantko06">LinkedIn</a>
+</p>
 
-## Profile Note
-
-This repository is my GitHub profile README, so I keep it lightweight and stable for GitHub rendering.
+<p>
+  <sub>This repository is my GitHub profile README, so the layout is intentionally lightweight and GitHub-friendly.</sub>
+</p>
