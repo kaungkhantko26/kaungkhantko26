@@ -61,13 +61,36 @@
 
 <h3>GitHub Snapshot</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaungkhantko26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaungkhantko26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Profile</strong><br />
+      <a href="https://github.com/kaungkhantko26">@kaungkhantko26</a>
+    </td>
+    <td valign="top" width="33%">
+      <strong>Repository</strong><br />
+      <a href="https://github.com/kaungkhantko26?tab=repositories">View public projects</a>
+    </td>
+    <td valign="top" width="33%">
+      <strong>Status</strong><br />
+      Open to building useful projects
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Main Tools</strong><br />
+      React, Node.js, Python
+    </td>
+    <td valign="top" width="33%">
+      <strong>Interests</strong><br />
+      Frontend, backend, product-focused builds
+    </td>
+    <td valign="top" width="33%">
+      <strong>Profile README</strong><br />
+      Clean layout, lightweight rendering
+    </td>
+  </tr>
+</table>
 
 <h3>Working Style</h3>
 
