@@ -59,6 +59,16 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
+<h3>GitHub Snapshot</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaungkhantko26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaungkhantko26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 <h3>Working Style</h3>
 
 <p>
