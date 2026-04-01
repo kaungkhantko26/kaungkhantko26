@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:22c55e&height=220&section=header&text=Kaung%20Khant%20Ko&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Kaung Khant Ko banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0a0a,35:991b1b,70:dc2626,100:f97316&height=220&section=header&text=Kaung%20Khant%20Ko&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Kaung Khant Ko banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+clean+and+useful+software;Frontend+and+backend+projects;Always+learning%2C+always+shipping" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FB7185&center=true&vCenter=true&width=720&lines=Building+clean+and+useful+software;Frontend+and+backend+projects;Fast+execution%2C+clear+results" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/kaungkhantko26">
-    <img src="https://img.shields.io/badge/GitHub-kaungkhantko26-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+    <img src="https://img.shields.io/badge/GitHub-kaungkhantko26-7f1d1d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
   <a href="https://www.linkedin.com/in/kaungkhantko06">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaung%20Khant%20Ko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kaung%20Khant%20Ko-b91c1c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-React%20%7C%20Node.js%20%7C%20Python-16A34A?style=for-the-badge" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Focus-React%20%7C%20Node.js%20%7C%20Python-ef4444?style=for-the-badge&logoColor=white" alt="Focus badge" />
 </p>
 
-<h2 align="center">Practical software. Clear structure. Real-world results.</h2>
+<h2 align="center">Practical software with an energetic red pulse.</h2>
 
 <p align="center">
   I build modern web applications and useful digital products with a strong focus on readability, maintainability, and shipping work that solves actual problems.
@@ -48,15 +48,15 @@
 <h3>Stack</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/HTML5-dc2626?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-ef4444?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-f87171?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-b91c1c?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-991b1b?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-7f1d1d?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-e11d48?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-f43f5e?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-b91c1c?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <h3>GitHub Snapshot</h3>
